@@ -1,0 +1,1 @@
+# Contador-de-fim-de-Promo-o-infinito
