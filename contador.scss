@@ -1,0 +1,38 @@
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.cont-dias-horas {
+    width: 100%;
+    max-width: 500px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    div {
+        width: 50px;
+        height: 50px;
+        padding: 50px;
+        border-radius: 50%;
+        text-align: center;
+        background-color: #333;
+        border: solid #777 5px;
+        color: #fff;
+        font-size: large;
+        font-weight: 500;
+    }
+    div:nth-child(1) {}
+    div:nth-child(2) {}
+    div:nth-child(3) {}
+}
+
+#dias {
+    text-align: center;
+    margin-top: 20px;
+    font-size: large;
+    font-weight: 500;
+}
