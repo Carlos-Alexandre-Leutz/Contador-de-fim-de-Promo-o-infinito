@@ -33,5 +33,11 @@ Visualize o projeto em:
 https://carlos-alexandre-leutz.github.io/Contador-de-fim-de-Promo-o-infinito/
 
 
+Meu Canal no youtube:
+https://www.youtube.com/channel/UCd4MhWhSeqK1Ga4OKOPSxSw?view_as=subscriber
+
+Aprenda a criar e monetizar sites de grasa Donwload do guia absolutamente completo para criar e monetizar site:
+https://carlos-alexandre-leutz.github.io/CriandoUmSiteProficional/entregaEbook.html
+
 
 
